@@ -1,0 +1,26 @@
+Thank you  sir  giving me this oppourtunity to introduce my self.
+My name is Akash Rajput. I am from Swaroop Nagar Kanpur. I completed 
+Bachelor of computer application from mpgi mandhana in 2021.
+I have 1 year 10 moths  of experience in it industry. Currently , i am working 
+with Hipster coder pvt.ltd. as a fullstack developer. I have work various technologies
+like Html,CSS,Javascript, Reactjs, java, spring and spring boot.
+ Talk About my Project
+Mortgage Backed Securities
+MBSE is designed to provide a solution for loan backed
+Securities within the USA. Many of the diverse classes of
+MBS to be had it approaches simplest pass-thru
+certificates from the government national mortgage
+association the Federal national loan association, and
+the Federal home loan mortgage employer. This
+application consists of modules like change entry,
+project, give-up, and Allocation screens to create and
+complete the exchange existence cycle.
+Roles & Responsibility
+ Involved in all phases of the Software Development Life
+Cycle (SDLC) consisting of design, development and solving
+the production problems.
+ Developed REST based web service using of Spring Boot to
+provide all the
+ CRUD operations.
+ Develop and implement application software. Testing Web
+services using Postman.
