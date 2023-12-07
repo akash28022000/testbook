@@ -1,0 +1,360 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: poppins;
+    scroll-behavior: smooth;
+}
+
+*{
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+    margin-top: 30px;
+}
+
+a{
+    text-decoration:  none;
+}
+
+ 
+nav ul li a{
+    display:flex;
+    letter-spacing: 1px;
+    margin: 3px;
+    padding: 0px 22px;
+}
+nav{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 5px 30px  rgba(0,0,0,0.02);
+
+    position: fixed;
+
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: #ffffff;
+
+ }
+ nav ul{
+    display:flex;
+
+
+    
+ }
+
+ button{
+    width:  250px;
+    height: 30px;
+    margin-bottom: 12px;
+    margin-left: -40px;
+    
+ }
+ .fa-search{
+    margin-left: -130px;
+    text-transform: lowercase;
+ }
+ p{
+    margin-top: -2px;
+    color: gray;
+ }
+
+select{
+    width:200px;
+}
+
+.main-body{
+margin-top: 100px;
+display:flex;
+justify-content: space-around;
+align-items: center;
+position: absolute;
+
+left: 0;
+top: 0;
+width: 100%;
+
+background-color: rgb(238, 236, 236);
+
+
+}
+
+#cars{
+    margin-left: -50px;
+    height: 30px;
+}
+
+.left-part{
+    width:300px;
+    height: 800px;
+    background-color: white;
+
+ 
+    margin-top: 30px;
+
+  
+}
+
+.upper-part{
+    background-image: linear-gradient(to right, rgb(255, 0, 212) , rgb(179, 255, 0)); 
+
+    height: 80px;
+
+
+}
+.left1{
+
+    box-shadow: 1px 1px gray;
+    height: 60px;
+
+}
+
+.left2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+.lefta{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -20px;
+
+  }
+
+  
+.leftb{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    box-shadow: 1px 1px gray;
+
+
+}
+
+.leftc{
+    box-shadow: 2px 2px gray;
+    height: 60px;
+   
+
+}
+.left3{
+display: flex;
+height: 60px;
+box-shadow: 2px 2px rgb(214, 205, 205);    
+
+}
+
+.left3a{
+    margin-top: 22px;
+    margin-left: 20px;
+    width: 20px;
+    height: 20px;
+background-color: #000000;
+border-radius:0px 0% 80% 80%;
+}
+
+.left4{
+    margin-top: 30px;
+    border: 1px  solid gray;
+width: 100% ;
+height: 427px;
+border-top-right-radius:10px;
+border-top-left-radius:10px;
+}
+
+.left4 ul li {
+  padding: 5px;
+  margin-left: -25px;
+  color: gray;
+}
+
+.middle-part1{
+    width: 650px;
+    height: 120px;
+   
+    margin-top: -49%;
+    background-color: white;
+    margin-left: 30px;
+
+
+}
+
+.middle-a{
+    border: 2px solid gray;
+    height: 43px;
+    width: 550px;
+    margin-top: -45px;
+    margin-left: 70px;
+    border-radius: 20px;
+
+}
+
+.fa-camera{
+
+    margin-top: 10px;
+    margin-left: 70px;
+ font-size: 40px;
+ color: aquamarine;
+}
+
+.fa-video{
+    margin-left: 50px;
+    font-size: 40px;
+    color: greenyellow;
+
+}
+
+.fa-calendar{
+    margin-left: 50px;
+    font-size: 40px;
+    color: pink;
+
+
+}
+
+.fa-newspaper{
+    margin-left: 50px;
+    font-size: 40px;
+    color: orangered;
+
+}
+
+.middle-b{
+    width: 650px;
+    height: 600px;
+   
+   margin-top: 50px;
+    background-color: white;
+
+
+}
+
+.middleb{
+    display: flex;
+}
+.middlec img{
+    margin-top: 65px;
+    width: 100%;
+}
+.middled{
+    margin-top: 10px;
+    padding-left: 20px;
+    box-shadow: 1px 1px gray;
+    height: 40px;
+}
+
+.middled img{
+    width: 30px;
+    height: 30px;
+}
+
+.middlee{
+    display: flex;
+     padding: 20px;
+}
+
+.middlee i{
+    font-size: 20px;
+    color: gray;
+    margin-left: 15px;
+  
+}
+
+.middlee p{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.fa-thumbs-up{
+
+    margin-left: -60px;
+
+
+}
+
+.middle-c{
+    width: 650px;
+    height: 600px;
+   
+   margin-top: 20px;
+    background-color: white;
+    border:1px solid;
+}
+
+.middled1{
+    margin-top: 10px;
+    padding-left: 20px;
+    box-shadow: 1px 1px gray;
+    height: 30px;
+}
+
+
+.middled1 img{
+        width: 30px;
+        height: 30px;
+        margin-top: -10px;
+    }
+
+    .right1 .i1{
+        margin-left: 90%;
+        margin-top: -12%;
+        color: white;
+        background-color: #000000;
+        width: 20px;
+        height: 20px;
+    
+        
+    }
+
+    .right1 .i{
+        margin-left: 93%;
+        margin-top: -12%;
+        color: white;
+    
+    }
+
+    .right-part{
+        width: 300px;
+        height: 300px;
+        background-color: #ffffff;
+        margin-top: -34%;
+        margin-left: 10%;
+    
+    }
+    
+  .right-part2{
+    margin-top: 40px;
+
+  }
+
+  .right-part2 .right1{
+    background-color: #ffffff;
+    height: 200px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
